@@ -1,0 +1,38 @@
+# Hapjesfestival Website - Files to Ignore
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Editor Files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Backup Files
+*.bak
+*.tmp
+*.temp
+*-old.*
+*-backup.*
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional
+node_modules/
+.env
+.env.local
